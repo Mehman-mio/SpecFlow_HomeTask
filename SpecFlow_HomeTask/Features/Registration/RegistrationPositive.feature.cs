@@ -77,7 +77,7 @@ namespace SpecFlow_HomeTask.Features.Registration
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Successful registration")]
         [NUnit.Framework.CategoryAttribute("positive")]
-        [NUnit.Framework.TestCaseAttribute("Taras", "Kerbut", "vpmnwnwjv@mail.ru", "055000000", "DevEducation str", "Baku", "123456", "123456", "Şəxsi kabinet", null)]
+        [NUnit.Framework.TestCaseAttribute("Taras", "Kerbut", "vimnwnwjv@mail.ru", "055000000", "DevEducation str", "Baku", "123456", "123456", "Şəxsi kabinet", null)]
         public void SuccessfulRegistration(string firstName, string secondName, string email, string phone, string adress, string city, string password, string confirmPassword, string message, string[] exampleTags)
         {
             string[] @__tags = new string[] {

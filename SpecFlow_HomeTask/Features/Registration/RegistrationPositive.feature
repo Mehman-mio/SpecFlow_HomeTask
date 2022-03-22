@@ -21,4 +21,4 @@ Scenario Outline: Successful registration
 
 	Examples: 
 	| FirstName | SecondName | Email             | Phone     | Adress          | City | Password | ConfirmPassword | Message       |
-	| Taras     | Kerbut     | vpmnwnwjv@mail.ru | 055000000 | DevEducation str| Baku | 123456   | 123456          | Şəxsi kabinet |
+	| Taras     | Kerbut     | vimnwnwjv@mail.ru | 055000000 | DevEducation str| Baku | 123456   | 123456          | Şəxsi kabinet |
